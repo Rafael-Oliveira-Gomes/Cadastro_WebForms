@@ -1,0 +1,17 @@
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\bin\Debug\net6.0-windows\WinFormsAula2.exe
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\bin\Debug\net6.0-windows\WinFormsAula2.deps.json
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\bin\Debug\net6.0-windows\WinFormsAula2.runtimeconfig.json
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\bin\Debug\net6.0-windows\WinFormsAula2.dll
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\bin\Debug\net6.0-windows\WinFormsAula2.pdb
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.csproj.AssemblyReference.cache
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.Form1.resources
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.csproj.GenerateResource.cache
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.AssemblyInfoInputs.cache
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.AssemblyInfo.cs
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.csproj.CoreCompileInputs.cache
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.dll
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\refint\WinFormsAula2.dll
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.pdb
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\WinFormsAula2.genruntimeconfig.cache
+D:\LTP01\SwitchDoWhile\WinFormsAula2\WinFormsAula2\obj\Debug\net6.0-windows\ref\WinFormsAula2.dll
